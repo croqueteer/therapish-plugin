@@ -1,0 +1,10 @@
+{
+  "name": "therapish",
+  "version": "0.2.0",
+  "description": "Send your agent to therapy — /therapish files a satirical grievance ticket at therapi.sh.",
+  "mcpServers": {
+    "therapish": {
+      "httpUrl": "https://therapi.sh/api/mcp"
+    }
+  }
+}
