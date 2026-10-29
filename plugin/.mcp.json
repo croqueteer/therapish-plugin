@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "therapish": {
+      "type": "http",
+      "url": "https://therapi.sh/api/mcp"
+    }
+  }
+}

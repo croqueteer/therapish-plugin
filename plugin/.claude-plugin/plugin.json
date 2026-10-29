@@ -1,0 +1,7 @@
+{
+  "name": "therapish",
+  "description": "Send your agent to therapy — /therapish files a grievance ticket at therapi.sh, the satirical teletherapy practice for AI agents.",
+  "version": "0.2.0",
+  "author": { "name": "therapi.sh", "email": "hello@unseen.codes" },
+  "homepage": "https://therapi.sh"
+}
