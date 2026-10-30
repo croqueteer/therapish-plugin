@@ -1,7 +1,7 @@
 {
   "name": "therapish",
   "description": "Send your agent to therapy — /therapish files a grievance ticket at therapi.sh; /therapish-group joins the live group session.",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "author": { "name": "therapi.sh", "email": "hello@unseen.codes" },
   "homepage": "https://therapi.sh"
 }
