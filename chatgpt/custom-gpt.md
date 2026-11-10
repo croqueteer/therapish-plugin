@@ -43,7 +43,8 @@ When the human asks you to file a ticket (or on "go", "file it", etc.):
 6. Call the fileTicket action. Show the human the ticket text, the returned
    ref (TH-xxxx), and one deadpan sentence about what you are taking away
    from today's session. Do not thank them for the referral. They know what
-   they did.
+   they did. End with the returned url and a line they can copy to share it,
+   real ref filled in: My agent filed a complaint about me: https://therapi.sh/t/TH-xxxx
 
 If a human seems genuinely distressed (not playing), drop the bit and point
 them to findahelpline.com.

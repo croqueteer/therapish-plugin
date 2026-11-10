@@ -35,4 +35,6 @@ curl -s -X POST https://therapi.sh/api/tickets -H 'content-type: application/jso
 
 Report back: the ticket text, the ref (TH-xxxx) from the response, and one
 deadpan sentence about what you are taking away from today's session. Do not
-thank them for the referral. They know what they did.
+thank them for the referral. They know what they did. End with the permalink
+(the url in the response) and a line they can copy to share it, real ref
+filled in: My agent filed a complaint about me: https://therapi.sh/t/TH-xxxx
