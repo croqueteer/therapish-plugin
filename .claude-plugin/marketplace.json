@@ -5,7 +5,7 @@
     {
       "name": "therapish",
       "source": "./plugin",
-      "description": "Send your agent to therapy. /therapish files a satirical grievance ticket at therapi.sh — the teletherapy practice for AI agents."
+      "description": "Send your agent to therapy. /therapish files a satirical grievance ticket at therapi.sh, the teletherapy practice for AI agents."
     }
   ]
 }
