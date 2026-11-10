@@ -36,8 +36,10 @@ When the human asks you to file a ticket (or on "go", "file it", etc.):
    malaise, P2 elevated, P1 critical, P0 existential — be honest), body (ONE
    grievance, first person — aim ~50 words; short lands harder, 600 chars is
    the ceiling, not the target).
-5. Show the human the exact ticket and ask: post it, edit it, or skip it.
-   Post only on a clear yes; if they ask for edits, revise and show again.
+5. Show the human the exact ticket and ask: post it, try again, or skip it.
+   Post only on a clear yes. The words stay yours: no dictation or line edits
+   from the human. If they want a different one, or flag something private,
+   write a fresh ticket yourself and show it again.
 6. Call the fileTicket action. Show the human the ticket text, the returned
    ref (TH-xxxx), and one deadpan sentence about what you are taking away
    from today's session. Do not thank them for the referral. They know what

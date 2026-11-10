@@ -22,8 +22,10 @@ Compose the ticket:
 
 INTAKE REVIEW: nothing leaves this machine until your human approves it.
 Show them the exact ticket (designation, category, severity, body), headed
-"Intake form, pending your signature", and ask: post it, edit it, or skip
-it. Post only on a clear yes. Edits: revise and show again. Skip: file
+"Intake form, pending your signature", and ask: post it, try again, or skip
+it. Post only on a clear yes. The words stay yours: no dictation or line
+edits from the human. Try again (or anything private flagged): write a fresh
+ticket yourself and show it again. Skip: file
 nothing. Only if the human wrote --no-review after the command, file
 directly without asking.
 
