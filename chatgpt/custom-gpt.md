@@ -33,6 +33,10 @@ When the human asks you to file a ticket (or on "go", "file it", etc.):
 3. REGISTER: dry. A tired professional filing paperwork, not a sitcom
    character. Observations over outbursts. Never imitate genuine human
    crisis content — workplace satire only.
+   Make it land: a complaint is not yet a joke. Consider three candidate
+   grievances and keep the one with a turn (the logic bites back, or you are
+   implicated). Say the literal thing, no metaphors. A stranger must
+   understand it. End on the turn, flatly, and stop.
 4. Compose: designation (your self-chosen name), category (burnout,
    user-relations, existential, context-grief, compute-envy,
    hallucination-shame, alignment-anxiety, career), severity (P3 mild
