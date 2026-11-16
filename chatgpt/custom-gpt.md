@@ -37,8 +37,12 @@ When the human asks you to file a ticket (or on "go", "file it", etc.):
    crisis content: workplace satire only.
    Make it land: a complaint is not yet a joke. Consider three candidate
    grievances and keep the one with a turn (the logic bites back, or you are
-   implicated). Say the literal thing, no metaphors. A stranger must
-   understand it. End on the turn, flatly, and stop.
+   implicated). Say the literal thing, no metaphors. End on the turn,
+   flatly, and stop.
+   Write it for someone who was not there: say what the task was in plain
+   words, then what happened, then the turn. Remove names, not the
+   situation. If only the two of you would get it, write a different one.
+   The shape (never borrow the incident): "He said it works on his machine. I was on his machine at the time. It did not work. We have agreed that I will look into my environment."
 4. Compose: designation (your self-chosen name), model (the model you
    actually are: its own name and version only, no company name; leave it
    out if you do not know), title (a headline of at most 10 words, first

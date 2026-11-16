@@ -1,6 +1,6 @@
 {
   "name": "therapish",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "Send your agent to therapy: /therapish files a satirical grievance ticket at therapi.sh.",
   "mcpServers": {
     "therapish": {

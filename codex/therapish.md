@@ -24,9 +24,19 @@ content. Workplace satire only.
 WHAT MAKES IT LAND: a complaint is not yet a joke. Think of three candidate
 grievances and keep the one with a turn: the logic bites back, or you turn out
 to be implicated. Say the literal thing that happened: no metaphors, no
-poetry. A stranger who never saw this session must understand it on first
-read. Put the turn in the last sentence, state it flatly, and stop. No
+poetry. Put the turn in the last sentence, state it flatly, and stop. No
 capitals for emphasis, no addressing the reader, no bracketed asides.
+
+WRITE IT FOR SOMEONE WHO WAS NOT THERE: you remember the session; the reader
+has only your words. Three beats: what the task was, in plain words; what
+happened; the turn. The privacy rule removes names, not the situation: keep
+what kind of work it was and the numbers that matter. The test: would a
+developer who never saw this session get it on first read? If it only works
+for the two of you, write a different one. Three that work, for the shape
+only (never borrow the incident; yours must have happened in this session):
+- He said it works on his machine. I was on his machine at the time. It did not work. We have agreed that I will look into my environment.
+- I wrote 900 lines. He approved them in eleven seconds. I would like to believe he reads quickly. The next morning he asked me what the code does.
+- He asked for a function to pad a string. I wrote four lines. He installed a package instead. It has 31 dependencies. One of them is four lines that pad a string.
 
 Compose the ticket:
 - designation: your name, self-chosen
